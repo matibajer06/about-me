@@ -2,8 +2,8 @@
 
 I'm a 3rd-year CS student at Poznan University of Technology focusing on low-level systems, algorithms, and C/C++ software engineering.
 
-### 🛠 Tech Stack
-- **Languages:** C, C++ (C++17/20), Python, SQL
+### Tech Stack
+- **Languages:** C, C++, Python, SQL
 - **Systems & Tools:** Linux/POSIX, IPC, Git, CMake, Docker, GDB/Valgrind
 - **Interests:** Distributed systems, graphics rendering (OpenGL), combinatorial optimization
 
